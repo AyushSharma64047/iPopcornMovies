@@ -14,7 +14,7 @@ __A Website Where You Can Find Movies.__
 
 
 ## Support   
-Contact Our [DEV](https://www.telegram.dog/RoyalKrrishna) For Support.
+Contact Our [DEV](https://www.telegram.dog/Z_Harbour_bot) For Support.
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It
@@ -27,4 +27,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Credits
 
- - [Thanks To Me 😜](https://t.me/RoyalKrrishna)
+ - [Thanks To Me 😜](https://www.telegram.dog/Z_Harbour_bot)
